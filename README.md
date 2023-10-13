@@ -12,6 +12,8 @@ Precision-Crafted for Nissan Skyline: This isn't a one-size-fits-all mod. It's m
 
 Stunning Graphics: With ultra-high-resolution textures, these taillights aren't just vibrant; they're vivid. Every detail is designed to elevate the aesthetics of your vehicle.
 
+![alt text](https://i.imgur.com/AwZ8mlc.jpg)
+
 **Installation:**
 To seamlessly integrate the Sharingan Taillights into your game, you'll need the Frosty Editor and Mod Manager. Detailed installation instructions are included, guiding you every step of the way. And remember, always back up your original game files before diving in.
 
@@ -19,8 +21,10 @@ Note: While this mod significantly boosts the visual appeal of your vehicle, it'
 
 Elevate your NFS Unbound experience. Embrace the power of the Uchiha. Download now and let the Sharingan redefine your racing saga!
 
+![alt text](https://i.imgur.com/Ckaw4rg.jpg)
 
 
-https://i.imgur.com/Ckaw4rg.jpg
+**Frosty Tool Suite: https://github.com/CadeEvs/FrostyToolsuite/releases**
 
-https://i.imgur.com/AwZ8mlc.jpg
+
+
